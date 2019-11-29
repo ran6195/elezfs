@@ -1,0 +1,23 @@
+{
+  "name": "elezfs",
+  "version": "1.0.0",
+  "description": "Un app in lectron per la gestione degli zfs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ran6195/elezfs.git"
+  },
+  "keywords": [
+    "electron",
+    "zfs"
+  ],
+  "author": "francesco corsanello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ran6195/elezfs/issues"
+  },
+  "homepage": "https://github.com/ran6195/elezfs#readme"
+}
